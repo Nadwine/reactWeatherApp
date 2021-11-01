@@ -1,4 +1,4 @@
-# reactWeatherApp
+# react-weather-app
 A weather app built using react.js
 
 ## Features
